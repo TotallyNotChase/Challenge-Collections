@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coin Change Permutation", "Coin Change Permutation.csproj", "{438ADC28-85E2-44EE-B64B-409C7849BEEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438ADC28-85E2-44EE-B64B-409C7849BEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438ADC28-85E2-44EE-B64B-409C7849BEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438ADC28-85E2-44EE-B64B-409C7849BEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438ADC28-85E2-44EE-B64B-409C7849BEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DC83180-7EFE-43F3-AF56-A6492ED29CE9}
+	EndGlobalSection
+EndGlobal
